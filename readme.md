@@ -1,6 +1,6 @@
 # TWISTCODE TEST WITH GO LANGUAGE
 
-A test Simple REST API towards course on Learning Management System
+A test Simple REST API towards Transaction
 
 
 ## Requirements
