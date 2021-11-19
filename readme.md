@@ -7,7 +7,6 @@ A test Simple REST API towards course on Learning Management System
 - Go Installed
 - MySQL
 
-## Installation & Deployments
 
 ## REST API DOCUMENTATION
 
